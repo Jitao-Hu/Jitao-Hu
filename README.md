@@ -15,7 +15,7 @@
 <!--Social Media-->  
 <div align="center"> 
  <a href="https://www.youtube.com/@bastndev" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
-<a href="https://www.tiktok.com/@bastndev" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
+<a href="https://www.tiktok.com/@bastndev" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
  <a href="https://www.instagram.com/bastndev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 
  </div>
@@ -76,7 +76,7 @@ graph TD;
 </div>
   
 <!--- Country ---> 
-<!-- <a href="https://solo.to/bastndev"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_250/viewers_3/labels_1/pageviews_0/flags_0/percent_1/" alt="@jitao-hu" border="0"></a> -->
+<a href="https://solo.to/bastndev"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_250/viewers_3/labels_1/pageviews_0/flags_0/percent_1/" alt="@jitao-hu" border="0"></a>
   
 <!-- <a href="https://solo.to/bastndev"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="@bastndev" border="0"></a> -->
   
