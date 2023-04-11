@@ -1,7 +1,7 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-<!--Title @bastndev-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Waterloo;I'm+19+years+old;Welcome!)
+<!--Title-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Jerry+from+Waterloo;A+second+year+ECE+student;Welcome!)](https://git.io/typing-svg)
 
 <!--Graph-->
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jitao-hu&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
