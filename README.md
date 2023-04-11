@@ -15,7 +15,7 @@
 <!--Social Media-->  
 <div align="center"> 
  <a href="https://www.youtube.com/@bastndev" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
-<a href="https://www.tiktok.com/@bastndev" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="linkedin.com/in/jerryhu-jt" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
  <a href="https://www.instagram.com/bastndev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 
  </div>
