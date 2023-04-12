@@ -31,13 +31,12 @@ graph TD;
     Front-End-->HTML5;
     Front-End-->CSS3;
     Front-End-->JavaScript;
-    Front-End-->Angular;
     Front-End-->React;
     Front-End-->XML;
     Front-End-->JSON;
-    Front-End-->Vue;
-    Front-End-->TypeScript;
     Front-End-->JQuery;
+    Fimrware/Embedded-->C;
+    Firmware/Embedded-->C++;
    ```
    
  <!--Coordenadas de Rio Preto - My Home-->
