@@ -35,7 +35,7 @@ graph TD;
     Front-End-->XML;
     Front-End-->JSON;
     Front-End-->JQuery;
-    Fimrware/Embedded-->C;
+    Firmware/Embedded-->C;
     Firmware/Embedded-->C++;
    ```
    
