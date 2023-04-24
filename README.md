@@ -24,6 +24,23 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=jitao-hu&theme=tokyonight_duo&hide_border=true"
 </p>
 
+## Programming language that I use
+   - C
+   - C++
+   - Python
+   - Java
+   - JavaScript/HTML/CSS
+   - SQL
+
+## Framework that I use
+   - Cmake
+   - CppUtest
+   - Behave
+   - Python-Can
+   - FreeRTOS
+   - PlatformIO
+ 
+
 <!--Final do Contador de Visitas-->   
 <div align="center">
 <br><p align="centre"><b>Visitors Count :D </b></p>  
@@ -38,60 +55,3 @@
   
  <!--Sneek Gusano-->
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-<!--
-**Jitao-Hu/Jitao-Hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
-     <!--Front End-->
-<!-- ```mermaid
-graph TD;
-    Front-End-->HTML5;
-    Front-End-->CSS3;
-    Front-End-->JavaScript;
-    Front-End-->React;
-    Front-End-->XML;
-    Front-End-->JSON;
-    Front-End-->JQuery;
-    Firmware/Embedded-->C;
-    Firmware/Embedded-->C++;
-    Firmware/Embedded-->Assembly-Language-(RISC-V);
-   ``` -->
-
-  <!--  ```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-78,-11.9],
-              [-76.9,-11.9],
-              [-76.9,-11.9],
-              [-78,-11.9],
-              [-78,-11.9]
-          ]
-        ]
-      }
-    }
-  ]
-}
-``` -->
