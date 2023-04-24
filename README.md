@@ -37,7 +37,7 @@ graph TD;
     Front-End-->JQuery;
     Firmware/Embedded-->C;
     Firmware/Embedded-->C++;
-    Firmware/Embedded-->Assembly Language (RISC-V);
+    Firmware/Embedded-->Assembly-Language-(RISC-V);
    ```
    
  <!--Coordenadas de Rio Preto - My Home-->
