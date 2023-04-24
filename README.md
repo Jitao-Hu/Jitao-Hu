@@ -17,7 +17,6 @@
  <a href="https://github.com/Jitao-Hu/Jitao-Hu/edit/main/README.md" target="_blank"><img src="https://img.shields.io/badge/-j376hu@uwaterloo.ca-b56576?style=for-the-badge&logoColor=white" style="border-radius: 30px"></a> 
 <a href="https://www.linkedin.com/in/jerryhu-jt" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
  <a href="https://github.com/Jitao-Hu/Jitao-Hu/edit/main/README.md" target="_blank"><img src="https://img.shields.io/badge/-+1 226--792--8800-%23E4405F?style=for-the-badge&logoColor=white"</a>
-
  </div>
   
  <!--Total Contributions--> 
@@ -25,8 +24,38 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=jitao-hu&theme=tokyonight_duo&hide_border=true"
 </p>
 
-   <!--Front End-->
-```mermaid
+<!--Final do Contador de Visitas-->   
+<div align="center">
+<br><p align="centre"><b>Visitors Count :D </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jitao-hu}/count.svg" /></p> 
+<br>
+</div>
+  
+<!-- <a href="https://solo.to/bastndev"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="@bastndev" border="0"></a> -->
+  
+<!-- <a href="https://info.flagcounter.com/41uN"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> --> 
+
+  
+ <!--Sneek Gusano-->
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+<!--
+**Jitao-Hu/Jitao-Hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+  
+     <!--Front End-->
+<!-- ```mermaid
 graph TD;
     Front-End-->HTML5;
     Front-End-->CSS3;
@@ -38,11 +67,9 @@ graph TD;
     Firmware/Embedded-->C;
     Firmware/Embedded-->C++;
     Firmware/Embedded-->Assembly-Language-(RISC-V);
-   ```
-   
- <!--Coordenadas de Rio Preto - My Home-->
-  
-<!--  ```geojson
+   ``` -->
+
+  <!--  ```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -68,35 +95,3 @@ graph TD;
   ]
 }
 ``` -->
-<!--Final do Contador de Visitas-->   
-<div align="center">
-<br><p align="centre"><b>Visitors Count :D </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jitao-hu}/count.svg" /></p> 
-<br>
-</div>
-  
-<!--- Country ---> 
-<a href="https://solo.to/bastndev"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_250/viewers_3/labels_1/pageviews_0/flags_0/percent_1/" alt="@jitao-hu" border="0"></a>
-  
-<!-- <a href="https://solo.to/bastndev"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="@bastndev" border="0"></a> -->
-  
-<!-- <a href="https://info.flagcounter.com/41uN"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> --> 
-
-  
- <!--Sneek Gusano-->
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-<!--
-**Jitao-Hu/Jitao-Hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
