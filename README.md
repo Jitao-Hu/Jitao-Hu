@@ -38,7 +38,6 @@ graph TD;
     Firmware/Embedded-->C;
     Firmware/Embedded-->C++;
     Firmware/Embedded-->Assembly Language (RISC-V)
-    Programming
    ```
    
  <!--Coordenadas de Rio Preto - My Home-->
