@@ -4,9 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B;I'm+Jerry+from+Waterloo;A+second+year+ECE+student;Welcome!)](https://git.io/typing-svg)
 
 <!--Graph-->
-![Jerry's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jitao-hu&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
-
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=jitao-hu&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Jerry's github activity graph">
+<!-- ![Jerry's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jitao-hu&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true) -->
 
 <!--Skill And More Information--> 
 <div align="center">  
@@ -63,6 +61,7 @@
 <div align="center"> 
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitao-hu&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api?username=jitao-hu&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Jerry Hu Dev github stats" /> 
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=jitao-hu&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Jerry's github activity graph">
 </div>
 
 <div align="center" width="90%">
