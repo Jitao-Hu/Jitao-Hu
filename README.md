@@ -32,13 +32,21 @@
    - JavaScript/HTML/CSS
    - SQL
 
-## Framework that I use
+## Firmware Framework/Library that I use
    - Cmake
-   - CppUtest
-   - Behave
    - Python-Can
    - FreeRTOS
    - PlatformIO
+   
+## Test Framework that I use
+   - CppUtest (TDD: test-driven development)
+   - Behave (BDD: behavior-driven development)
+
+## Things I want to learn
+   - Rust
+   - SystemVerilog / Verilog
+   - Information Theory
+   - Machine Learning / Deep Learning
  
 
 <!--Final do Contador de Visitas-->   
