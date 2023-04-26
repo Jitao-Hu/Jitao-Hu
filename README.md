@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B;I'm+Jerry+from+Waterloo;A+second+year+ECE+student;Welcome!)](https://git.io/typing-svg)
 
 <!--Graph-->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jitao-hu&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+![Jerry's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jitao-hu&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
 <!--Skill And More Information--> 
 <div align="center">  
@@ -56,10 +56,12 @@
 <br>
 </div>
   
-<!-- <a href="https://solo.to/bastndev"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="@bastndev" border="0"></a> -->
-  
-<!-- <a href="https://info.flagcounter.com/41uN"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> --> 
-
+<!-- Git Status -->
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/Jitao-Hu/Jitao-Hu" align="center">  
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jitao-hu&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jerry Hu Dev github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitao-hu&layout=compact&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</div>
   
  <!--Sneek Gusano-->
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
