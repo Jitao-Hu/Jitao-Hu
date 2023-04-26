@@ -58,9 +58,9 @@
   
 <!-- Git Status -->
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/Jitao-Hu/Jitao-Hu" align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jitao-hu&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jerry Hu Dev github stats" /> 
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitao-hu&layout=compact&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<div align="center">  
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jitao-hu&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Jerry Hu Dev github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitao-hu&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
   
  <!--Sneek Gusano-->
