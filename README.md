@@ -6,6 +6,8 @@
 <!--Graph-->
 ![Jerry's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jitao-hu&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=jitao-hu&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Jerry's github activity graph">
+
 <!--Skill And More Information--> 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jitao-hu&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Jerry Hu Dev github stats" /> 
@@ -58,14 +60,15 @@
   
 <!-- Git Status -->
 ## &#x1f4c8; GitHub Stats
-<div>
 <div align="center"> 
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitao-hu&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api?username=jitao-hu&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Jerry Hu Dev github stats" /> 
 </div>
 
+<div align="center" width="90%">
 ![Jerry's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jitao-hu&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 </div>
+
   
  <!--Sneek Gusano-->
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
