@@ -7,6 +7,7 @@
    - C
    - C++
    - Python
+   - Rust
    - Java
    - JavaScript/HTML/CSS
    - SQL
