@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!-- Welcome Section-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B;I'm+Jerry+from+Waterloo;A+computer+engineering+student;Welcome:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B;I'm+Jerry+from+Waterloo;A+computer+engineering+student;Welcome+:D)](https://git.io/typing-svg)
 
 ## Programming language that I use
    - C
