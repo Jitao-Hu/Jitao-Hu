@@ -12,7 +12,7 @@
    - Game Theory
    - Information Theory
    - Machine Learning / Deep Learning / Reinforcement Learning
-   - Nutritions
+   - Nutrition
   
 <!-- Git Status -->
 ## &#x1f4c8; GitHub Stats
