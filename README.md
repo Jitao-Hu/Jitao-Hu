@@ -13,12 +13,6 @@
    - Information Theory
    - Machine Learning / Deep Learning / Reinforcement Learning
    - Nutrition
-  
-<!-- Git Status -->
-## &#x1f4c8; GitHub Stats
-<div align="center"> 
-  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitao-hu&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-</div>
 
 ## Contact Me
 <div align="center"> 
