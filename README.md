@@ -4,14 +4,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B;I'm+Jerry+from+Waterloo;A+Master+student+in+Systems+Design+Engineering;Welcome+to+my+Github+page:D)](https://git.io/typing-svg)
 
 ## Skills that I have
-   - Software: Python, C/C++, RISC-V, ARM Assembly, Bash, Java, Rust, HTML/CSS/JS, SW/Dataflow Design, CI/CD
-   - Hardware: Verilog, System Verilog, VHDL, Chip Bringup, Lab System Setup, Hardware and Software Interfacing
-   - More: AI/ML Optimizations, Reinforcement Learning, Embedded Systems, RTL Design, Compiler
+   - Computer Vision and Machine Learning Engineering: Self-Supervised Learning, Video Understanding, Reinforcement Learning, Graph Neural Networks, Tactical Model, Sports Model
+   - Software Engineering: Python, C/C++, Java, Rust, HTML/CSS/JS, Software/Dataflow Design, CI/CD
+   - Systems Engineering: Embedded Systems, Chip Bringup, Lab System Setup, Hardware and Software Interfacing, Operating Systems
+   - More: Linear Optimizations, RTL Design, Compiler, Assembly (ARM, RISC-V)
 
 ## Interests
+   - Computer Vision
+   - Machine Learning / Deep Learning / Reinforcement Learning
    - Game Theory
    - Information Theory
-   - Machine Learning / Deep Learning / Reinforcement Learning
    - Nutrition
 
 ## Contact Me
